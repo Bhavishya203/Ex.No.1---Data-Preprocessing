@@ -81,7 +81,15 @@ print("Size of X_test: ",len(X_test))
 
 X_train.shape
 ## OUTPUT:
-/ Show the result/
+![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN1.png)
+![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN2.png)
+![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN3.png)
+![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN4.png)
+![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN5.png)
+
+
+
+
 
 ## RESULT
 Data preprocessing is performed in a data set downloaded from Kaggle
