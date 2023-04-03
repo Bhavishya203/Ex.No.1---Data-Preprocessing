@@ -86,6 +86,7 @@ X_train.shape
 ![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN3.png)
 ![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN4.png)
 ![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN5.png)
+![output](https://github.com/Bhavishya203/Ex.No.1---Data-Preprocessing/blob/main/NN6.png)
 
 
 
